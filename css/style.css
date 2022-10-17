@@ -2,8 +2,8 @@
 
 :root {
   --White: hsl(0, 0%, 100%);
-  --Light-gray: hsl(212, 45%, 89%);
-  --Grayish-blue: hsl(220, 15%, 55%);
+  --Light-gray: #d6e2f0;
+  --Grayish-blue: hwb(219 48% 38%);
   --Dark-blue: hsl(218, 44%, 22%);
 
   --body-font: "Outfit", sans-serif;
