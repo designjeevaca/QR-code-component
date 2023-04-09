@@ -30,6 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Digitallimat - [digitallimat](https://digitallimat.com)
+- Digitaltamil.dev - [digitaltamildev](https://digitaltamil.dev)
 - Frontend Mentor - [@digitallimat](https://www.frontendmentor.io/profile/digitallimat)
-- Twitter - [@digitallimat](https://www.twitter.com/digitallimat)
+- Twitter - [@digitaltamildev](https://www.twitter.com/digitaltamildev)
