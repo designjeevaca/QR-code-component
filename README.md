@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Digitaltamil.dev - [digitaltamildev](https://digitaltamil.dev)
-- Frontend Mentor - [@digitallimat](https://www.frontendmentor.io/profile/digitallimat)
+- Frontend Mentor - [@digitallimat](https://www.frontendmentor.io/profile/digitaltamildev)
 - Twitter - [@digitaltamildev](https://www.twitter.com/digitaltamildev)
