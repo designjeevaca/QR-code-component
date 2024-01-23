@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-pqdrRO_oT_)
-- Live Site URL: [Netlify](https://digitaltamildev.netlify.app)
+
 
 ### Built with
 
@@ -30,6 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Digitaltamil.dev - [digitaltamildev](https://digitaltamil.dev)
-- Frontend Mentor - [@digitaltamildev](https://www.frontendmentor.io/profile/digitaltamildev)
-- Twitter - [@digitaltamildev](https://www.twitter.com/digitaltamildev)
+- jeevatek - [jeevatek](https://tek.jeeva.ca
+- Frontend Mentor - [@jeevatek](https://www.frontendmentor.io/profile/jeevatek)
+- Twitter - [@jeevatek](https://www.twitter.com/jeevatek)
